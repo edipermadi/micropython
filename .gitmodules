@@ -36,3 +36,12 @@
 [submodule "lib/nxp_driver"]
 	path = lib/nxp_driver
 	url = https://github.com/hathach/nxp_driver.git
+[submodule "ports/stm32/boards/BLACK_F407ZG"]
+	path = ports/stm32/boards/BLACK_F407ZG
+	url = git@github.com:mcauser/BLACK_F407ZG.git
+[submodule "ports/stm32/boards/BLACK_F407ZE"]
+	path = ports/stm32/boards/BLACK_F407ZE
+	url = git@github.com:mcauser/BLACK_F407ZE.git
+[submodule "ports/stm32/boards/BLACK_F407VE"]
+	path = ports/stm32/boards/BLACK_F407VE
+	url = git@github.com:mcauser/BLACK_F407VE.git
